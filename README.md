@@ -14,7 +14,7 @@ For Data Engineering, used the information from the ERD to create table schema f
  and many more. SQL queries using joins and views were used to query the database to conduct the data analysis.  
 
 ### Tools used in this Project:
-  1. SQL 
-       * PostgreSQL
-  2. ER Diagram Tool
+  1. ER Diagram Tool
        * QuickDBD 
+  2. SQL 
+       * PostgreSQL
