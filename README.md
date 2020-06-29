@@ -7,7 +7,7 @@ The purpose of this project is to import employee data from six CSV files into a
   3. Data Analysis
 
 As part of Data Modeling, inspected the CSVs to sketch out an Entity-Relationship Diagram (ERD) of the tables using QuickDBD for postgreSQL database.
-For Data Engineering. used the information from the ERD to create table schema for each of the six CSV files specifying data types, primary keys, foreign keys and other constraints. Imported each CSV file into the corresponding postgreSQL table. As part of Data Analysis, queried the database to answer the following:
+For Data Engineering, used the information from the ERD to create table schema for each of the six CSV files specifying data types, primary keys, foreign keys and other constraints. Imported each CSV file into the corresponding postgreSQL table. As part of Data Analysis, queried the database to answer the following:
   1. List details for each employee
   2. List employees hired in a specific year 
   3. List manager of each department with employment dates 
